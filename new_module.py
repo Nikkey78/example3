@@ -1,4 +1,5 @@
 def new_function:
+	x = 42
     print("hello world")  
 
 
