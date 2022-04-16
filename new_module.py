@@ -11,5 +11,5 @@ def new_function_2():
     print("second branch 2")
 	
 def new_function_2():
-	a = 42
+	a = 45
     print("third branch 1")
