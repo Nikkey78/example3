@@ -7,5 +7,8 @@ def another_function:
     print("hello new branch") 
 	
 	
-ded new_function_2():
+def new_function_2():
     print("second branch 2")
+	
+def new_function_2():
+    print("third branch 1")
